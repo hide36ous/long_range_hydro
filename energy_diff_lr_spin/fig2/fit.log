@@ -1,0 +1,37 @@
+
+
+*******************************************************************************
+Fri Jul  5 16:11:20 2024
+
+
+FIT:    data read from '2^10/fort.95' u 1:2
+        format = x:z
+        x range restricted to [1.00000 : 955.426]
+        #datapoints = 511
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 4.4870314607e+07   0.00e+00  1.26e+03    1.000000e+00   1.000000e+00
+  20 1.7738468575e-04  -3.90e-02  1.26e-02    7.062313e-02  -7.999953e-01
+
+After 20 iterations the fit converged.
+final sum of squares of residuals : 0.000177385
+rel. change during last iteration : -3.90217e-07
+
+degrees of freedom    (FIT_NDF)                        : 509
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000590336
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.48496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.0706231        +/- 0.0009536    (1.35%)
+b               = -0.799995        +/- 0.005844     (0.7304%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.832  1.000 
