@@ -75,7 +75,7 @@ set title offset 0,-1
 set xlabel offset 13,2.5
 set ylabel offset -1.5,0
 set xlabel "$n$"
-set ylabel "$\\int^{\\infty}_0 dt \\langle \\mathcal{J}_n(t) \\mathcal{J}_0 \\rangle$"
+set ylabel "$\\int^{\\infty}_0 dt \\langle \\mathcal{J}_n(t) \\mathcal{J}_0(0) \\rangle$"
 
 set logscale xy
 set format y "$10^{%L}$"
@@ -174,7 +174,7 @@ set title offset 0,-1
 set xlabel offset 13,2.5
 set ylabel offset -1.5,0
 set xlabel "$n$"
-set ylabel "$\\int^{\\infty}_0 dt \\langle \\mathcal{J}_n(t) \\mathcal{J}_0 \\rangle$"
+set ylabel "$\\int^{\\infty}_0 dt \\langle \\mathcal{J}_n(t) \\mathcal{J}_0(0) \\rangle$"
 
 set logscale xy
 set format y "$10^{%L}$"
