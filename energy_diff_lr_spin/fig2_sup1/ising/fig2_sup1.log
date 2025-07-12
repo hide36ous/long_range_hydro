@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.31)  31 JAN 2025 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.31)  8 JUL 2025 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**fig3_1.tex
-(./fig3_1.tex
+**fig2_sup1.tex
+(./fig2_sup1.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/minimal.cls
@@ -84,8 +84,8 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count185
 \l__pdf_internal_box=\box47
 )
-(./fig3_1.aux)
-\openout1 = `fig3_1.aux'.
+(./fig2_sup1.aux)
+\openout1 = `fig2_sup1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -131,12 +131,12 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(0.0pt, 867.23999pt, 0.0pt)
-* v-part:(T,H,B)=(0.0pt, 361.34999pt, 0.0pt)
-* \paperwidth=867.23999pt
-* \paperheight=361.34999pt
-* \textwidth=867.23999pt
-* \textheight=361.34999pt
+* h-part:(L,W,R)=(0.0pt, 1011.78pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 289.07999pt, 0.0pt)
+* \paperwidth=1011.78pt
+* \paperheight=289.07999pt
+* \textwidth=1011.78pt
+* \textheight=289.07999pt
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
 * \topmargin=-109.26999pt
@@ -161,52 +161,62 @@ e
 \gptboxwidth=\skip51
 \gptboxtext=\box49
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 334.
+(Font)              <14.4> on input line 242.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 334.
+(Font)              <7> on input line 242.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 334.
-Package epstopdf Info: Source file: <fig3_1-inc.eps>
-(epstopdf)                    date: 2025-01-31 11:37:13
-(epstopdf)                    size: 171040 bytes
-(epstopdf)             Output file: <fig3_1-inc-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-01-31 11:36:49
-(epstopdf)                    size: 92759 bytes
-(epstopdf)             Command: <repstopdf --outfile=fig3_1-inc-eps-converted-t
-o.pdf fig3_1-inc.eps>
-(epstopdf)             \includegraphics on input line 335.
-runsystem(repstopdf --outfile=fig3_1-inc-eps-converted-to.pdf fig3_1-inc.eps)..
-.executed safely (allowed).
-
-Package epstopdf Info: Result file: <fig3_1-inc-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-01-31 11:37:15
-(epstopdf)                    size: 93034 bytes.
-<fig3_1-inc-eps-converted-to.pdf, id=1, 867.24pt x 361.35pt>
-File: fig3_1-inc-eps-converted-to.pdf Graphic file (type pdf)
-<use fig3_1-inc-eps-converted-to.pdf>
-Package pdftex.def Info: fig3_1-inc-eps-converted-to.pdf  used on input line 33
-5.
-(pdftex.def)             Requested size: 867.27759pt x 361.35463pt.
+(Font)              <20.74> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 242.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 242.
+Package epstopdf Info: Source file: <fig2_sup2-inc.eps>
+(epstopdf)                    date: 2025-01-24 14:15:07
+(epstopdf)                    size: 119592 bytes
+(epstopdf)             Output file: <fig2_sup2-inc-eps-converted-to.pdf>
+(epstopdf)                    date: 2025-01-24 14:15:08
+(epstopdf)                    size: 55426 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig2_sup2-inc-eps-converte
+d-to.pdf fig2_sup2-inc.eps>
+(epstopdf)             \includegraphics on input line 243.
+Package epstopdf Info: Output file is already uptodate.
+<fig2_sup2-inc-eps-converted-to.pdf, id=1, 1011.78pt x 289.08pt>
+File: fig2_sup2-inc-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2_sup2-inc-eps-converted-to.pdf>
+Package pdftex.def Info: fig2_sup2-inc-eps-converted-to.pdf  used on input line
+ 243.
+(pdftex.def)             Requested size: 1011.79295pt x 289.09251pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 244.
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig
-3_1-inc-eps-converted-to.pdf>] (./fig3_1.aux) ) 
+2_sup2-inc-eps-converted-to.pdf>] (./fig2_sup1.aux) ) 
 Here is how much of TeX's memory you used:
- 1721 strings out of 478994
- 26505 string characters out of 5858184
- 336322 words of memory out of 5000000
- 19215 multiletter control sequences out of 15000+600000
- 406169 words of font info for 36 fonts, out of 8000000 for 9000
+ 1745 strings out of 478994
+ 26961 string characters out of 5858184
+ 328318 words of memory out of 5000000
+ 19236 multiletter control sequences out of 15000+600000
+ 410737 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,74p,201b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on fig3_1.pdf (1 page, 137980 bytes).
+ 68i,7n,74p,204b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on fig2_sup1.pdf (1 page, 122884 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
