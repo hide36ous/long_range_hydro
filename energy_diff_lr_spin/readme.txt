@@ -1,3 +1,5 @@
+Here is the numerical data and codes for "Energy diffusion in the long-range interacting spin systems" in arXiv:2502.10139.
+
 Directory "fig1" corresponds to all data and codes related to the Fig.1 in the main text.
 Directory "fig2" corresponds to all data and codes related to the Fig.2 in the main text.
 Directory "fig2_sup1" corresponds to all data and codes related to the supplemental of Fig.2 in the main text (current correlation of Ising model).
